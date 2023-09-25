@@ -1,6 +1,7 @@
 title: Shadow Client Docs
 description: Shadow Client documentation.
-theme: just-the-docs
+theme: # color_scheme: dark
+
 
 url: https://shadowclienthelp.github.io
 
