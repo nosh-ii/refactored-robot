@@ -9,4 +9,6 @@ layout: default
 
  Shadow Client is a full optifine port, ranging from Minecraft 1.5.5 to 1.8.8X! 
  There's so much you can do.
-[Join our Discord!]([https://discord.gg/rymTefS34F])
+[Join our Discord!]
+[
+https://discord.gg/rymTefS34F](([https://discord.gg/rymTefS34F]))
